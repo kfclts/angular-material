@@ -11,3 +11,8 @@ mat-toolbar a {
   color: white;
 }
 
+.center-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
